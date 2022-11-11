@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 1",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "precio": 1500,
+        "stock": 54,
+        "cantidad": 1,
+        "categoria": "producto"
+    }, 
+    
+    {
+        "id": 2,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 2",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "precio": 2300,
+        "stock": 54,
+        "cantidad": 1,
+        "categoria": "producto"
+    }, 
+    
+    {
+        "id": 3,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 3",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "precio": 7100,
+        "stock": 44,
+        "cantidad": 1,
+        "categoria": "producto"
+    }, 
+    
+    {
+        "id": 4,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 4",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "precio": 600,
+        "stock": 14,
+        "cantidad": 1,
+        "categoria": "producto"
+    }, 
+    
+    {
+        "id": 5,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 5",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "precio": 540,
+        "stock": 40,
+        "cantidad": 1,
+        "categoria": "producto"
+    }, 
+    
+    {
+        "id": 6,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 6",
+        "descripcion": "Lorem ipsum dolor sit amet.",
+        "precio": 580,
+        "stock": 10,
+        "cantidad": 1,
+        "categoria": "producto"
+    }, 
+    
+    {
+        "id": 7,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 7",
+        "descripcion": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "precio": 3000,
+        "stock": 10,
+        "cantidad": 1,
+        "categoria": "servicio"
+    }, 
+    
+    {
+        "id": 8,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 8",
+        "descripcion": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "precio": 950,
+        "stock": 10,
+        "cantidad": 1,
+        "categoria": "servicio"
+    }, 
+    
+    {
+        "id": 9,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 9",
+        "descripcion": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "precio": 3000,
+        "stock": 24,
+        "cantidad": 1,
+        "categoria": "servicio"
+    }, 
+    
+    {
+        "id": 10,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 10",
+        "descripcion": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "precio": 3500,
+        "stock": 41,
+        "cantidad": 1,
+        "categoria": "servicio"
+    }, 
+    
+    {
+        "id": 11,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 11",
+        "descripcion": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "precio": 3560,
+        "cantidad": 21,
+        "categoria": "servicio"
+    }, 
+    
+    {
+        "id": 12,
+        "img": "./img/plato.jfif",
+        "titulo": "Plato 12",
+        "descripcion": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+        "precio": 3100,
+        "stock": 14,
+        "cantidad": 1,
+        "categoria": "servicio"
+    }
+]
